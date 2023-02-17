@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansi Nerkar</h1>
 <h3 align="center">A passionate Computer Engineer From INDIA</h3>
-<img src="https://github.com/mansinerkar-11/mansinerkar-11/blob/main/output-onlinegiftools.gif">
+<img align="right" width="350" src="https://github.com/mansinerkar-11/mansinerkar-11/blob/main/output-onlinegiftools.gif">
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=mansinerkar-11&label=Profile%20views&color=0e75b6&style=flat" alt="mansinerkar-11" /> </p>
 
