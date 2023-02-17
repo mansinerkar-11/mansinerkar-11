@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansi Nerkar</h1>
 <h3 align="center">A passionate Computer Engineer From INDIA</h3>
-<img align="right" alt="coding" width="350" src="https://i0.wp.com/booleanstrings.com/wp-content/uploads/2023/01/braingain_a_smart_woman_applying_online_for_jobs_as_a_software__019ed466-97c9-4c2e-87ac-4d9ccd705642.png?ssl=1">
+<img align="right" alt="coding" width="350" src="https://github.com/mansinerkar-11/mansinerkar-11/blob/main/comp.gif">
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=mansinerkar-11&label=Profile%20views&color=0e75b6&style=flat" alt="mansinerkar-11" /> </p>
 
