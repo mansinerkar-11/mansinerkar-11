@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansi Nerkar</h1>
 <h3 align="center">A passionate Computer Engineer From INDIA</h3>
-<img align="right" width="350" src="https://github.com/mansinerkar-11/mansinerkar-11/blob/main/133744-3d-hologram.gif">
+<img align="right" width="350" src="https://images.pond5.com/blue-hologram-hud-circle-interfaces-footage-143802849_iconl.jpeg">
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=mansinerkar-11&label=Profile%20views&color=0e75b6&style=flat" alt="mansinerkar-11" /> </p>
 
