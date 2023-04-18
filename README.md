@@ -25,8 +25,14 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mansinerkar-11&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mansinerkar-11&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansinerkar-11&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mansinerkar-11&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mansinerkar-11&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansinerkar-11&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ![](https://github-profile-trophy.vercel.app/?username=isnik09&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
