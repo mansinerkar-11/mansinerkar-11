@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **mansinerkar11@gmail.com**
 
-- ⚡ Fun fact **I like playing kid games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
