@@ -4,7 +4,7 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=mansinerkar-11&label=Profile%20views&color=0e75b6&style=flat" alt="mansinerkar-11" /> </p>
 
-- 🌱 I’m currently learning **Advance C++,**
+- 🌱 I’m currently learning **SwiftUI,**
 
 - 📝 I am compitative coder [https://auth.geeksforgeeks.org/user/mansinerkar](https://auth.geeksforgeeks.org/user/mansinerkar)
 
