@@ -19,8 +19,8 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=mansinerkar-11&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+## 📈 Contribution Graph:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansinerkar-11&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 ---
 
