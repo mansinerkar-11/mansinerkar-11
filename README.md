@@ -6,7 +6,27 @@
 </p>
 
 - 🌱 I’m currently learning **SwiftUI** and building iOS applications.  
-- 💻 I love competitive programming and problem solving on platforms like GeeksforGeeks & LeetCode.  
+- 💻 I love competitive programming and problem solving on platforms like GeeksforGeeks & LeetCode.
+- ## 📚 Competitive Programming Profiles:
+
+<p align="left">
+  <a href="https://auth.geeksforgeeks.org/user/mansinerkar11/practice/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-14BF96?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://leetcode.com/mansinerkar11/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/mansinerkar11">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/mansinerkar11">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/mansinerkar11">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
 - 📫 Reach me at **mansinerkar11@gmail.com**  
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mansi-nerkar)
 
@@ -23,6 +43,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansinerkar-11&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 ---
+
 
 ## 🛠️ Languages and Tools:
 <p align="left">
