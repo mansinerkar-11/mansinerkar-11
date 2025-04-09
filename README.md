@@ -7,24 +7,24 @@
 
 - 🌱 I’m currently learning **SwiftUI** and building iOS applications.  
 - 💻 I love competitive programming and problem solving on platforms like 
+      <p align="left">
+        <a href="https://www.geeksforgeeks.org/user/mansinerkar/">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-14BF96?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+        </a>
+        <a href="https://leetcode.com/u/mansinerkar/">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+        </a>
+        <a href="https://www.codechef.com/users/mansinerkar11">
+          <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+        </a>
+        <a href="https://www.hackerrank.com/profile/mansinerkar11">
+          <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+        </a>
+        <a href="https://www.hackerearth.com/@mansinerkar11">
+          <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+        </a>
+      </p>
 
-    <p align="left">
-      <a href="https://auth.geeksforgeeks.org/user/mansinerkar11/practice/">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-14BF96?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-      </a>
-      <a href="https://leetcode.com/mansinerkar11/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-      </a>
-      <a href="https://www.codechef.com/users/mansinerkar11">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-      </a>
-      <a href="https://www.hackerrank.com/mansinerkar11">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-      </a>
-      <a href="https://codeforces.com/profile/mansinerkar11">
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-      </a>
-    </p>
 
 - 📫 Reach me at **mansinerkar11@gmail.com**  
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mansi-nerkar)
