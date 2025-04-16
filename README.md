@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi Nerkar</h1>
-<h3 align="center">A passionate Computer Engineer from India 🇮🇳</h3>
+<h3 align="center">A passionate iOS Developer Engineer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mansinerkar-11&label=Profile%20views&color=0e75b6&style=flat" alt="mansinerkar-11" />
